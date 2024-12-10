@@ -2,13 +2,10 @@
 
 # Table of Contents
 
-<!-- toc -->
-
 - [git](#git)
 - [prepare for Kaggle](#prepare-for-kaggle)
   * [jupyter notebook](#jupyter-notebook)
-
-<!-- tocstop -->
+  * [markdown toc](#markdown-toc)
 
 # git
 
@@ -48,20 +45,15 @@ pip3 install jupyter
 
 typora的[TOC]在github上不显示目录，所以去搜了一下。
 
-然后有一个github的项目https://github.com/jonschlinkert/markdown-toc
+用下面这个网址或者手打都行
 
 ```
-$ npm install -g markdown-toc
-Edit README.md and insert the following line where you want the TOC inserted:
-<!-- toc -->
-$ markdown-toc -i README.md
+- [Table of Contents](#table-of-contents)
+- [git](#git)
+- [prepare for Kaggle](#prepare-for-kaggle)
+  * [jupyter notebook](#jupyter-notebook)
+  * [markdown toc](#markdown-toc)
 ```
 
-用npm install的时候需要在`命令控制行`**以管理员身份运行**。切换文件路径如下
-
-```
-cd /d D:\...(路径)\learngit
-```
-
-
+https://ecotrust-canada.github.io/markdown-toc/
 
