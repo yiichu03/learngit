@@ -1,6 +1,14 @@
 用这个来记录我学习去参加Kaggle的过程。
 
-[TOC]
+# Table of Contents
+
+<!-- toc -->
+
+- [git](#git)
+- [prepare for Kaggle](#prepare-for-kaggle)
+  * [jupyter notebook](#jupyter-notebook)
+
+<!-- tocstop -->
 
 # git
 
@@ -33,3 +41,5 @@ pip3 install jupyter
 使用的时候，在想使用的那个路径框中输入`cmd`然后命令行输入`jupyter notebook`就可以。
 
 ![image-20241210144646577](readme.assets/image-20241210144646577.png)
+
+使用`start.ipynb`回忆了一下`jupyter notebook`的使用
