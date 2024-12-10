@@ -43,3 +43,25 @@ pip3 install jupyter
 ![image-20241210144646577](readme.assets/image-20241210144646577.png)
 
 使用`start.ipynb`回忆了一下`jupyter notebook`的使用
+
+## markdown toc
+
+typora的[TOC]在github上不显示目录，所以去搜了一下。
+
+然后有一个github的项目https://github.com/jonschlinkert/markdown-toc
+
+```
+$ npm install -g markdown-toc
+Edit README.md and insert the following line where you want the TOC inserted:
+<!-- toc -->
+$ markdown-toc -i README.md
+```
+
+用npm install的时候需要在`命令控制行`**以管理员身份运行**。切换文件路径如下
+
+```
+cd /d D:\...(路径)\learngit
+```
+
+
+
