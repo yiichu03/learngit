@@ -57,3 +57,31 @@ typora的[TOC]在github上不显示目录，所以去搜了一下。
 
 https://ecotrust-canada.github.io/markdown-toc/
 
+
+
+# start Kaggle with titanic
+
+https://www.kaggle.com/competitions/titanic
+
+首先如上是比赛页面
+
+然后里面有指导
+
+```markdown
+Recommended Tutorial
+We highly recommend **Alexis Cook’s Titanic Tutorial**(**https://www.kaggle.com/code/alexisbcook/titanic-tutorial**) that walks you through making your very first submission step by step and this **starter notebook**（**https://www.kaggle.com/code/gusthema/titanic-competition-w-tensorflow-decision-forests**） to get started.
+```
+
+https://www.kaggle.com/code/alexisbcook/titanic-tutorial
+
+https://www.kaggle.com/code/gusthema/titanic-competition-w-tensorflow-decision-forests
+
+![image-20241210215046037](README.assets/image-20241210215046037.png)
+
+有一个推荐的学习教程：https://www.kaggle.com/learn/intro-to-programming
+
+https://www.kaggle.com/learn/python
+
+感觉这个说builds on 和 preparation的设计还挺友好的
+
+![image-20241210215708489](README.assets/image-20241210215708489.png)
